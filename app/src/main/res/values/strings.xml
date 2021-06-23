@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample Idea Kotlin</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detailsBottom">I am an Junior Android Developer.I have Knowledge in latest android
+    technologies.I have one Year Experience.Sound knowledge in recyclerview,json parsing,retrofit</string>
+</resources>
